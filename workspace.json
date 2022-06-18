@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "davidasaf-next": "apps/davidasaf-next",
+    "davidasaf-next-e2e": "apps/davidasaf-next-e2e"
+  }
+}
